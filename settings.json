@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "2V2B.aternos.me",
-    "port": 59992,
+    "ip": " bushbuck.aternos.host",
+    "port": 51219,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -24,16 +24,16 @@
     },
     "anti-afk": {
       "enabled": true,
-      "sneak": false
+      "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "",
-        ""
+        "Hi",
+        "Hello"
       ]
     },
     "chat-log": true,
